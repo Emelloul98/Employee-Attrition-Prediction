@@ -127,6 +127,6 @@ pip install pandas numpy scikit-learn matplotlib scipy
 - **Adaboost Performance:**
   - Displaying the performance of the final model on the train and test set.
 
-  ![Confusion Matrix]()
+  ![Confusion Matrix](https://github.com/Emelloul98/Employee-Attrition-Prediction/blob/main/adaboost.png)
 
 ---
