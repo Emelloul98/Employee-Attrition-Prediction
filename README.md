@@ -123,7 +123,7 @@ pip install pandas numpy scikit-learn matplotlib scipy
 - **F1 Score vs. Number of Features:**
   - Visualization of model performance across different feature counts.
 
-  ![F1 Score vs Features](example_plot.png)
+  ![F1 Score vs Features]([example_plot.png](https://github.com/Emelloul98/Employee-Attrition-Prediction/blob/main/feature%20selection.png))
 
 - **Confusion Matrix:**
   - Displaying the performance of the final model on the test set.
